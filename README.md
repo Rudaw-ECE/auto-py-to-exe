@@ -17,7 +17,7 @@
 ## Translations of This File
 
 阅读中文版的 README ，点击 [这里](./README-Chinese.md)
-
+زمانی کوردی 
 Suomenkieliset käyttöohjeet löydät [täältä](./README-Finnish.md)
 
 Türkçe Talimatları [burada](./README-Turkish.md) bulabilirsiniz.
