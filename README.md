@@ -134,6 +134,8 @@ If you believe you've found an issue with this tool, please follow the ["Reporti
 | Language                                    | Translator                                                                                   | Translated                            |
 | ------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------- |
 | Arabic (العربية)                            | [Tayeb-Ali](https://github.com/tayeb-ali)                                                    | UI                                    |
+| Kurdish(کوردی-سۆرانی)                      | [Tayeb-Ali](https://github.com/tayeb-ali)                                                    | UI                                    |
+
 | Belarusian (Беларуская)                     | [Zmicier21](https://github.com/Zmicier21)                                                    | UI and [README](README-Belarusian.md) |
 | Brazilian Portuguese (Português Brasileiro) | [marleyas](https://github.com/marleyas), [reneoliveirajr](https://github.com/reneoliveirajr) | UI                                    |
 | Bulgarian (Български)                       | [kbkozlev](https://github.com/kbkozlev)                                                      | UI and [README](README-Bulgarian.md)  |
